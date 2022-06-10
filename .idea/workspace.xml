@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b231117a-97d5-4352-af39-494fc7e49672" name="Changes" comment="merged">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/Person.java" afterDir="false" />
+    <list default="true" id="b231117a-97d5-4352-af39-494fc7e49672" name="Changes" comment="Hello world with Kotlin">
+      <change beforePath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654847262443</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hello world with Kotlin">
+      <created>1654849010323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654849010323</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +133,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="merged" />
-    <option name="LAST_COMMIT_MESSAGE" value="merged" />
+    <MESSAGE value="Hello world with Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello world with Kotlin" />
   </component>
 </project>
