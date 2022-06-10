@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b231117a-97d5-4352-af39-494fc7e49672" name="Changes" comment="Hello world with Kotlin">
-      <change beforePath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
+    <list default="true" id="b231117a-97d5-4352-af39-494fc7e49672" name="Changes" comment="add Description">
+      <change afterPath="$PROJECT_DIR$/src/main/java/GuessNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/michelle/IdeaProjects/myproject"
   }
 }]]></component>
   <component name="RunManager" selected="Kotlin.PersonKotlinKt">
@@ -115,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654849010323</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Description">
+      <created>1654849331019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654849331019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +144,7 @@
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="merged" />
     <MESSAGE value="Hello world with Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world with Kotlin" />
+    <MESSAGE value="add Description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Description" />
   </component>
 </project>
