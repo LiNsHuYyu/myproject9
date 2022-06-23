@@ -58,11 +58,11 @@
   </component>
   <component name="RunManager" selected="Kotlin.OrderKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fju.edu.Hello" />
+      <option name="MAIN_CLASS_NAME" value="fju.edu.course_study.Hello" />
       <module name="myproject9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fju.edu.*" />
+          <option name="PATTERN" value="fju.edu.course_study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,7 +96,7 @@
         <item itemvalue="Kotlin.OrderKt" />
         <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.PersonKotlinKt" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.fju.edu.course_study.Hello" />
       </list>
     </recent_temporary>
   </component>

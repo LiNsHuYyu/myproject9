@@ -1,4 +1,4 @@
-package fju.edu
+package fju.edu.course_study
 
 class PersonKotlin {
     fun greeting(){

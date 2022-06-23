@@ -1,4 +1,4 @@
-package fju.edu;
+package fju.edu.course_study;
 
 public class Hello {
     public static void main(String[] args) {

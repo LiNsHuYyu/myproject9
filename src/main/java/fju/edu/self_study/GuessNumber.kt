@@ -1,4 +1,4 @@
-package fju.edu
+package fju.edu.self_study
 
 import java.util.Scanner
 import kotlin.random.Random
