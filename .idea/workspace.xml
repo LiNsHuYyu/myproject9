@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b231117a-97d5-4352-af39-494fc7e49672" name="Changes" comment="GuessNumber try -- failed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/score/Student.kt" afterDir="false" />
+    <list default="true" id="b231117a-97d5-4352-af39-494fc7e49672" name="Changes" comment="Student first try">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/order/Delivery.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/order/FamilyDelivery.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/order/HiLifeDelivery.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/order/Order.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/order/Seven11Delivery.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fju/edu/order/ShopeeDelivery.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fju/edu/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fju/edu/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/michelle/IdeaProjects/myproject9"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/michelle/IdeaProjects/myproject2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.PersonKotlinKt">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="fju.edu.order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.OrderKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fju.edu.Hello" />
       <module name="myproject9.main" />
@@ -59,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fju.edu.fju.edu.order.OrderKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fju.edu.PersonKotlinKt" />
       <module name="myproject9.main" />
@@ -66,8 +84,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fju.edu.fju.edu.score.StudentKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OrderKt" />
+        <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Kotlin.PersonKotlinKt" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -131,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654880025218</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Student first try">
+      <created>1655447380353</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655447380353</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +186,10 @@
     <MESSAGE value="Hello world with Kotlin" />
     <MESSAGE value="add Description" />
     <MESSAGE value="GuessNumber try -- failed" />
-    <option name="LAST_COMMIT_MESSAGE" value="GuessNumber try -- failed" />
+    <MESSAGE value="Student first try" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student first try" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myproject9$StudentKt.ic" NAME="StudentKt Coverage Results" MODIFIED="1655448946513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
